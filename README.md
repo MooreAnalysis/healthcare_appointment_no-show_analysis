@@ -3,6 +3,8 @@
 ![Status](https://img.shields.io/badge/Project-Complete-brightgreen)
 
 # Healthcare Appointment No-Show Analysis
+https://public.tableau.com/authoring/PatientExperienceWorkflowOptimization/Dashboard1#1
+
 Tableau dashboard analyzing healthcare appointment no-shows to identify patterns in scheduling, patient behavior, and reminder effectiveness.
 
 The goal of this project is to improve appointment attendance by reducing the appointment no-show rate by 10% over a 6 month time period. To meet this goal, appointment lead times must be reduced and improved targeting of reminder interventions for high-risk patient groups must be implemented. 

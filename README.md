@@ -1,3 +1,4 @@
+![Healthcare Analytics](https://img.shields.io/badge/Domain-Healthcare-red)
 ![Tableau](https://img.shields.io/badge/Tool-Tableau-blue)
 ![Excel](https://img.shields.io/badge/Tool-Excel-green)
 ![Status](https://img.shields.io/badge/Project-Complete-brightgreen)
